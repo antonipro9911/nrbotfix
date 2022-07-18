@@ -1,0 +1,6 @@
+{
+	"ip":"Gangonly.aternos.me:48360",
+	"port": "25565",
+	"name": "NRBot",
+	"auto-night-skip":"false"
+}
